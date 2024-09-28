@@ -2,7 +2,7 @@
   "name": "gtg-crm-themes",
   "version": "1.0.0",
   "description": "GTG CRM Themes",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@craftjs/core": "^0.2.10",
+    "gtg-crm-themes": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
